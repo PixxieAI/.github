@@ -43,9 +43,9 @@ Community feedback is huge for us feel free to open issues, discuss ideas, or su
 ---
 
 ## 🌐 Links
-**Website:** https://pixxieai.ca
-**Discord:** https://pixxieai.ca/discord  
-**Twitter/X:** https://x.com/PixxieAI
+- **Website:** https://pixxieai.ca
+- **Discord:** https://pixxieai.ca/discord  
+- **Twitter/X:** https://x.com/PixxieAI
 
 ---
 
